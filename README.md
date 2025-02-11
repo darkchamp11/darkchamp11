@@ -24,14 +24,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darkchamp11&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="darkchamp11" /></p>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darkchamp11&show_icons=true&theme=tokyonight&locale=en" alt="darkchamp11" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darkchamp11&theme=dark" alt="darkchamp11" /></p>
