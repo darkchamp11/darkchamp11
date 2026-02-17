@@ -7,7 +7,7 @@
 
 ### 👨‍💻 About Me
 - 🛡️ **Focus**: Designing and building **secure, scalable, and high-performance systems**
-- 🤖 **Interests**: **Cyber Security, GenAI, System Design, and AI-integrated platforms**
+- 🤖 **Interests**: **Cyber Security, AI-driven Automation, System Design, and Intelligent platforms**
 - 🌱 **Currently Exploring**: Secure execution engines, agent-based AI systems, and cloud-scale architectures
 - 🚀 **Mindset**: Strong believer in *“Don’t just code — design the system.”*
 - ⚡ **Fun Fact**: I go into a deep trance when I’m bored 😄
